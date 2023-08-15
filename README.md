@@ -1,2 +1,2 @@
 # decode_utf8
-a decoder of utf8 for C
+a decoder of UTF-8 to UTF-32
