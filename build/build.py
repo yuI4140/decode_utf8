@@ -18,4 +18,4 @@ elif argv[1]=="-shl":
     print(shared_lib) 
     os.system(shared_lib) 
 if isFlag!=True:
-    print("flag doesn't exits")
+    print("flag doesn't exists")
